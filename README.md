@@ -5,7 +5,7 @@
 I hope a great long-term relationship. I love working with an agile dev team.
 <h3>Slack Workspace Invitation</h3>
 <h4>
-  <a href="https://join.slack.com/t/pph-co/shared_invite/zt-1jpxre3ic-mWMe_NISI6O2M0RVyuM1DA">Join the workspace</a>
+  <a href="https://join.slack.com/t/devstars-co/shared_invite/zt-1jpxre3ic-mWMe_NISI6O2M0RVyuM1DA">Join the workspace</a>
 </h4>
 
 <!--
