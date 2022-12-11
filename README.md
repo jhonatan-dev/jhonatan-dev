@@ -11,12 +11,10 @@ I hope a great long-term relationship. I love working with an agile dev team.
 
 <h3>Slack Workspace - DevStars</h3>
 <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :)</em>
-<div style="display: flex;">
-  <h4>
-    <a href="https://join.slack.com/t/devstars-co/shared_invite/zt-1jpxre3ic-mWMe_NISI6O2M0RVyuM1DA">Join DevStars</a>
-  </h4>
+<h4>
+  <a href="https://join.slack.com/t/devstars-co/shared_invite/zt-1jpxre3ic-mWMe_NISI6O2M0RVyuM1DA">Join DevStars</a>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-</div>
+</h4>
 
 
 <!--
