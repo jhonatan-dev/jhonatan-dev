@@ -1,7 +1,6 @@
 ### Hi 👋 Everyone
 
-📫 How to reach me:
-<!-- <a href='mailto:jhonatanmaranosilva@gmail.com'>jhonatanmaranosilva@gmail.com</a> -->
+📫 How to reach me: <a href='mailto:jhonatanmaranosilva@gmail.com'>jhonatanmaranosilva@gmail.com</a>
 I hope a great long-term relationship. I love working with an agile dev team.
 
 <h3>I am an innovative full-stack developer.</h3>
