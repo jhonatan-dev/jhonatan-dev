@@ -1,7 +1,4 @@
-<!-- ### Hi 👋 Everyone
-
-📫 How to reach me: <a href='mailto:jhonatanmaranosilva@gmail.com'>jhonatanmaranosilva@gmail.com</a>
-I love working with an agile dev team. -->
+### Hi 👋 Everyone
 
 <h3 align="center">
   I am an innovative full-stack developer.
@@ -52,7 +49,6 @@ I love working with an agile dev team. -->
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>    
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white" />
     <img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white" />
@@ -79,17 +75,3 @@ I love working with an agile dev team. -->
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-<!--
-**jhonatan-dev/jhonatan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
